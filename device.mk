@@ -77,10 +77,6 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     init.device.rc
 
-# CorvusParts
-PRODUCT_PACKAGES += \
-   CorvusParts
-
 # Shims
 PRODUCT_PACKAGES += \
     libcamera_sdm660_shim
