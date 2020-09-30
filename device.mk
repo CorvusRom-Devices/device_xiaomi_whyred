@@ -78,12 +78,12 @@ PRODUCT_PACKAGES += \
     init.device.rc
 
 # Prebuilts
-PRODUCT_PACKAGES += \
-    OPScreenRecorder
+#PRODUCT_PACKAGES += \
+    #OPScreenRecorder
 
 # XiaomiParts
-PRODUCT_PACKAGES += \
-   XiaomiParts
+#PRODUCT_PACKAGES += \
+   #XiaomiParts
 
 # Shims
 PRODUCT_PACKAGES += \
